@@ -1,0 +1,3 @@
+Para generar esqueletos
+
+https://skeletonreact.com/
